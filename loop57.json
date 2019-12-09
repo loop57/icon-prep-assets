@@ -1,13 +1,13 @@
 {
   "representative": {
     "logo": {
-      "logo_256": "https://github.com/loop57/icon-prep-assets/raw/master/loop57-512.png",
+      "logo_256": "https://github.com/loop57/icon-prep-assets/raw/master/loop57-256.png",
       "logo_1024": "https://github.com/loop57/icon-prep-assets/raw/master/loop57-1024.png",
       "logo_svg": ""
     },
     "media": {
       "steemit": "",
-      "twitter": "",
+      "twitter": "https://twitter.com/_loop57_",
       "youtube": "",
       "facebook": "",
       "github": "https://github.com/loop57",
