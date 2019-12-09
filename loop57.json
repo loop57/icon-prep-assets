@@ -24,6 +24,6 @@
         "city": "New York City"
     },
     "server_type": "cloud",
-    "api_endpoint": ""
+    "api_endpoint": "prep.loop57.com:9000"
   }
 }
