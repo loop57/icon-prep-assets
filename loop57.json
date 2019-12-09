@@ -1,1 +1,29 @@
-
+{
+  "representative": {
+    "logo": {
+      "logo_256": "https://github.com/loop57/icon-prep-assets/raw/master/loop57-512.png",
+      "logo_1024": "https://github.com/loop57/icon-prep-assets/raw/master/loop57-1024.png",
+      "logo_svg": ""
+    },
+    "media": {
+      "steemit": "",
+      "twitter": "",
+      "youtube": "",
+      "facebook": "",
+      "github": "https://github.com/loop57",
+      "reddit": "",
+      "keybase": "",
+      "telegram": "",
+      "wechat": "",
+      "medium": ""
+    }
+  },
+  "server": {
+    "location": {
+        "country": "USA",
+        "city": "New York City"
+    },
+    "server_type": "cloud",
+    "api_endpoint": ""
+  }
+}
